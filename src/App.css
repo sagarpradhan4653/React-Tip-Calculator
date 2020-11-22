@@ -1,0 +1,61 @@
+
+.card-header{
+  margin-bottom: 3%;
+  font-size: x-large;
+  font-weight: bolder;
+  background-color:yellow;
+ 
+
+}
+
+
+.card-header1{
+  margin: -5%;
+  font-size: large;
+  padding: 0%;
+  height: 108%;
+  margin: auto;
+  margin-bottom: 6%;
+  font-weight: bolder;
+  text-underline-position:above;
+  background-color: snow;
+}
+
+
+
+.card{
+  position: absolute;
+  left: 35%;
+  top:40px;
+  height: 100%;
+  width: 40%;
+  border: solid black;
+  background-color: darkseagreen;
+  
+  
+}
+/* .input-group-append{
+  
+} */
+
+.card-body{
+  border:thin solid black; 
+  height: 33%;
+
+}
+.btn1{
+  margin: 5%;
+}
+
+.row{
+  border: solid yellow;
+}
+.col{
+  border:thin solid rgb(51, 25, 25);
+}
+
+
+#tlist::placeholder{
+  color: aliceblue;
+}
+
